@@ -13,7 +13,7 @@
 ## 4. 个人效率软件（扩展部分）
 ### Trello
 ### Notion
-
+- [x] Windows系统安装Git Bash
 
 
 ### 参考链接：
