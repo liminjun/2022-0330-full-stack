@@ -11,13 +11,15 @@ function countWords() {
 
   // TODO: add code here to remove the periods and commas and transform all words to lowercase letters
   text = text.replace(/[.,]/g, "");
-  text = text.toLocaleLowerCase();
+  text = text.toLowerCase();
   // The wordArray array will contains a key value pair for words and their occurences in the text
   const wordArray = text.split(" ");
 
   // This loop goes through the wordArray and creates the key value pair objects
+
   const wordCount = {};
   wordArray.forEach((item) => {
+   
     if (wordCount[item] == null) wordCount[item] = 1;
     else {
       wordCount[item] += 1;
