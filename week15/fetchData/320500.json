@@ -1,0 +1,19 @@
+{
+    "status": "1",
+    "count": "1",
+    "info": "OK",
+    "infocode": "10000",
+    "lives": [
+        {
+            "province": "江苏",
+            "city": "苏州市",
+            "adcode": "320500",
+            "weather": "多云",
+            "temperature": "38",
+            "winddirection": "无风向",
+            "windpower": "≤3",
+            "humidity": "41",
+            "reporttime": "2022-08-10 13:31:44"
+        }
+    ]
+}
