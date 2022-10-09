@@ -2,9 +2,9 @@ const Pagination = ({ items, pageSize, onPageChange }) => {
   const { Button } = ReactBootstrap;
   if (items.length <= 1) return null;
 
-  let num = Math.ceil(items.length / pageSize);
-  let pages = range(1, num + 1);
-  const list = pages.map((page) => {
+  let num = Math.ceil(items.length / pageSize);// 11/10 1
+  let pageNumbers = range(1, num);//(1,3)
+  const list = pageNumbers.map((page) => {
     return (
       <Button key={page} onClick={onPageChange} className="page-item">
         {page}
@@ -17,6 +17,7 @@ const Pagination = ({ items, pageSize, onPageChange }) => {
     </nav>
   );
 };
+//(1,3) [1,2,3]
 const range = (start, end) => {
   return Array(end - start + 1)
     .fill(0)
@@ -91,7 +92,7 @@ function App() {
   const [currentPage, setCurrentPage] = useState(1);
   const pageSize = 10;
   const [{ data, isLoading, isError }, doFetch] = useDataApi(
-    "https://hn.algolia.com/api/v1/search?query=MIT",
+    "https://hn.algolia.com/api/v1/search?query=Cloud",
     {
       hits: [],
     }
@@ -107,16 +108,18 @@ function App() {
   return (
     <Fragment>
       {isLoading ? (
-        <div>Loading ...</div>
+        <div>加载中 ...</div>
       ) : (
         <ul className="list-group">
           {page.map((item) => (
             <li key={item.objectID} className="list-group-item">
-              <a href={item.url}>{item.title}</a>
+              <a target="_blank" href={item.url}>{item.title}</a>
+              {/* <i>{Date(item.created_at_i)}</i> */}
             </li>
           ))}
         </ul>
       )}
+      {/* 分页组件 */}
       <Pagination
         items={data.hits}
         pageSize={pageSize}

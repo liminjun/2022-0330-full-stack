@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Dynamic change the style.</title>
+    <style>
+        .on {
+            background-color: orange;
+        }
+        div {
+            padding: 5px;
+            text-align: center;
+            border-style: solid;
+            font-size: 2em;
+        }
+    </style>
+</head>
+<body>
+    <button onclick="off()">OFF</button>
+    <button onclick="on()">ON</button>
+    <div id="target">Target</div>
+    <script>
+        
+        const element = document.getElementById('target');
+        element.style.color = "red";
+        element.style.backgroundColor = 'green'
+        function on() {
+            element.classList.add('on')
+        }
+        function off() {
+            element.classList.remove('on');
+            alert('hello world.')
+        }
+        
+    </script>
+</body>
+</html>

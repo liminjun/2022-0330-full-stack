@@ -1,0 +1,901 @@
+{
+    "hits": [
+        {
+            "created_at": "2019-07-18T17:40:52.000Z",
+            "title": "MITM on HTTPS traffic in Kazakhstan",
+            "url": "https://bugzilla.mozilla.org/show_bug.cgi?id=1567114",
+            "author": "bzbarsky",
+            "points": 1336,
+            "story_text": null,
+            "comment_text": null,
+            "num_comments": 453,
+            "story_id": null,
+            "story_title": null,
+            "story_url": null,
+            "parent_id": null,
+            "created_at_i": 1563471652,
+            "relevancy_score": 8952,
+            "_tags": [
+                "story",
+                "author_bzbarsky",
+                "story_20472179"
+            ],
+            "objectID": "20472179",
+            "_highlightResult": {
+                "title": {
+                    "value": "\u003cem\u003eMIT\u003c/em\u003eM on HTTPS traffic in Kazakhstan",
+                    "matchLevel": "full",
+                    "fullyHighlighted": false,
+                    "matchedWords": [
+                        "mit"
+                    ]
+                },
+                "url": {
+                    "value": "https://bugzilla.mozilla.org/show_bug.cgi?id=1567114",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                "author": {
+                    "value": "bzbarsky",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                }
+            }
+        },
+        {
+            "created_at": "2021-12-25T14:12:18.000Z",
+            "title": "Microsoft forked MIT licensed repo and changed the copyright [fixed]",
+            "url": "https://github.com/microsoft/grpc_bench/commit/04c7143a39a0bb243369e31f3b3b797449468fdb",
+            "author": "mkdirp",
+            "points": 1326,
+            "story_text": null,
+            "comment_text": null,
+            "num_comments": 538,
+            "story_id": null,
+            "story_title": null,
+            "story_url": null,
+            "parent_id": null,
+            "created_at_i": 1640441538,
+            "_tags": [
+                "story",
+                "author_mkdirp",
+                "story_29683471"
+            ],
+            "objectID": "29683471",
+            "_highlightResult": {
+                "title": {
+                    "value": "Microsoft forked \u003cem\u003eMIT\u003c/em\u003e licensed repo and changed the copyright [fixed]",
+                    "matchLevel": "full",
+                    "fullyHighlighted": false,
+                    "matchedWords": [
+                        "mit"
+                    ]
+                },
+                "url": {
+                    "value": "https://github.com/microsoft/grpc_bench/commit/04c7143a39a0bb243369e31f3b3b797449468fdb",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                "author": {
+                    "value": "mkdirp",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                }
+            }
+        },
+        {
+            "created_at": "2018-06-18T14:57:39.000Z",
+            "title": "YouTube’s Piracy Filter Blocks MIT Courses, Blender Videos, and More",
+            "url": "https://torrentfreak.com/youtubes-piracy-filter-blocks-mit-courses-blender-videos-and-more-180618/",
+            "author": "gooseus",
+            "points": 1129,
+            "story_text": null,
+            "comment_text": null,
+            "num_comments": 250,
+            "story_id": null,
+            "story_title": null,
+            "story_url": null,
+            "parent_id": null,
+            "created_at_i": 1529333859,
+            "relevancy_score": 8199,
+            "_tags": [
+                "story",
+                "author_gooseus",
+                "story_17338700"
+            ],
+            "objectID": "17338700",
+            "_highlightResult": {
+                "title": {
+                    "value": "YouTube’s Piracy Filter Blocks \u003cem\u003eMIT\u003c/em\u003e Courses, Blender Videos, and More",
+                    "matchLevel": "full",
+                    "fullyHighlighted": false,
+                    "matchedWords": [
+                        "mit"
+                    ]
+                },
+                "url": {
+                    "value": "https://torrentfreak.com/youtubes-piracy-filter-blocks-\u003cem\u003emit\u003c/em\u003e-courses-blender-videos-and-more-180618/",
+                    "matchLevel": "full",
+                    "fullyHighlighted": false,
+                    "matchedWords": [
+                        "mit"
+                    ]
+                },
+                "author": {
+                    "value": "gooseus",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                }
+            }
+        },
+        {
+            "created_at": "2020-06-11T14:12:13.000Z",
+            "title": "MIT Ends Elsevier Negotiations",
+            "url": "https://news.mit.edu/2020/guided-by-open-access-principles-mit-ends-elsevier-negotiations-0611",
+            "author": "davrosthedalek",
+            "points": 1104,
+            "story_text": null,
+            "comment_text": null,
+            "num_comments": 262,
+            "story_id": null,
+            "story_title": null,
+            "story_url": null,
+            "parent_id": null,
+            "created_at_i": 1591884733,
+            "_tags": [
+                "story",
+                "author_davrosthedalek",
+                "story_23489068"
+            ],
+            "objectID": "23489068",
+            "_highlightResult": {
+                "title": {
+                    "value": "\u003cem\u003eMIT\u003c/em\u003e Ends Elsevier Negotiations",
+                    "matchLevel": "full",
+                    "fullyHighlighted": false,
+                    "matchedWords": [
+                        "mit"
+                    ]
+                },
+                "url": {
+                    "value": "https://news.\u003cem\u003emit\u003c/em\u003e.edu/2020/guided-by-open-access-principles-\u003cem\u003emit\u003c/em\u003e-ends-elsevier-negotiations-0611",
+                    "matchLevel": "full",
+                    "fullyHighlighted": false,
+                    "matchedWords": [
+                        "mit"
+                    ]
+                },
+                "author": {
+                    "value": "davrosthedalek",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                }
+            }
+        },
+        {
+            "created_at": "2019-02-04T17:21:56.000Z",
+            "title": "MIT Hacker Tools: a lecture series on programmer tools",
+            "url": "https://hacker-tools.github.io/",
+            "author": "anishathalye",
+            "points": 1028,
+            "story_text": null,
+            "comment_text": null,
+            "num_comments": 79,
+            "story_id": null,
+            "story_title": null,
+            "story_url": null,
+            "parent_id": null,
+            "created_at_i": 1549300916,
+            "relevancy_score": 8643,
+            "_tags": [
+                "story",
+                "author_anishathalye",
+                "story_19078281"
+            ],
+            "objectID": "19078281",
+            "_highlightResult": {
+                "title": {
+                    "value": "\u003cem\u003eMIT\u003c/em\u003e Hacker Tools: a lecture series on programmer tools",
+                    "matchLevel": "full",
+                    "fullyHighlighted": false,
+                    "matchedWords": [
+                        "mit"
+                    ]
+                },
+                "url": {
+                    "value": "https://hacker-tools.github.io/",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                "author": {
+                    "value": "anishathalye",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                }
+            }
+        },
+        {
+            "created_at": "2020-03-10T21:15:42.000Z",
+            "title": "MIT moves all classes online for the rest of the semester",
+            "url": "https://web.mit.edu/covid19/update-from-president-l-rafael-reif-to-the-mit-community/",
+            "author": "ryeights",
+            "points": 1027,
+            "story_text": null,
+            "comment_text": null,
+            "num_comments": 586,
+            "story_id": null,
+            "story_title": null,
+            "story_url": null,
+            "parent_id": null,
+            "created_at_i": 1583874942,
+            "_tags": [
+                "story",
+                "author_ryeights",
+                "story_22539789"
+            ],
+            "objectID": "22539789",
+            "_highlightResult": {
+                "title": {
+                    "value": "\u003cem\u003eMIT\u003c/em\u003e moves all classes online for the rest of the semester",
+                    "matchLevel": "full",
+                    "fullyHighlighted": false,
+                    "matchedWords": [
+                        "mit"
+                    ]
+                },
+                "url": {
+                    "value": "https://web.\u003cem\u003emit\u003c/em\u003e.edu/covid19/update-from-president-l-rafael-reif-to-the-\u003cem\u003emit\u003c/em\u003e-community/",
+                    "matchLevel": "full",
+                    "fullyHighlighted": false,
+                    "matchedWords": [
+                        "mit"
+                    ]
+                },
+                "author": {
+                    "value": "ryeights",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                }
+            }
+        },
+        {
+            "created_at": "2021-09-08T19:50:36.000Z",
+            "title": "MIT-designed project achieves major advance toward fusion energy",
+            "url": "https://news.mit.edu/2021/MIT-CFS-major-advance-toward-fusion-energy-0908",
+            "author": "klintcho",
+            "points": 915,
+            "story_text": null,
+            "comment_text": null,
+            "num_comments": 422,
+            "story_id": null,
+            "story_title": null,
+            "story_url": null,
+            "parent_id": null,
+            "created_at_i": 1631130636,
+            "_tags": [
+                "story",
+                "author_klintcho",
+                "story_28462151"
+            ],
+            "objectID": "28462151",
+            "_highlightResult": {
+                "title": {
+                    "value": "\u003cem\u003eMIT\u003c/em\u003e-designed project achieves major advance toward fusion energy",
+                    "matchLevel": "full",
+                    "fullyHighlighted": false,
+                    "matchedWords": [
+                        "mit"
+                    ]
+                },
+                "url": {
+                    "value": "https://news.\u003cem\u003emit\u003c/em\u003e.edu/2021/\u003cem\u003eMIT\u003c/em\u003e-CFS-major-advance-toward-fusion-energy-0908",
+                    "matchLevel": "full",
+                    "fullyHighlighted": false,
+                    "matchedWords": [
+                        "mit"
+                    ]
+                },
+                "author": {
+                    "value": "klintcho",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                }
+            }
+        },
+        {
+            "created_at": "2022-06-10T13:03:01.000Z",
+            "title": "MIT researchers uncover ‘unpatchable’ flaw in Apple M1 chips",
+            "url": "https://techcrunch.com/2022/06/10/apple-m1-unpatchable-flaw/",
+            "author": "markus_zhang",
+            "points": 885,
+            "story_text": null,
+            "comment_text": null,
+            "num_comments": 162,
+            "story_id": null,
+            "story_title": null,
+            "story_url": null,
+            "parent_id": null,
+            "created_at_i": 1654866181,
+            "_tags": [
+                "story",
+                "author_markus_zhang",
+                "story_31693490"
+            ],
+            "objectID": "31693490",
+            "_highlightResult": {
+                "title": {
+                    "value": "\u003cem\u003eMIT\u003c/em\u003e researchers uncover ‘unpatchable’ flaw in Apple M1 chips",
+                    "matchLevel": "full",
+                    "fullyHighlighted": false,
+                    "matchedWords": [
+                        "mit"
+                    ]
+                },
+                "url": {
+                    "value": "https://techcrunch.com/2022/06/10/apple-m1-unpatchable-flaw/",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                "author": {
+                    "value": "markus_zhang",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                }
+            }
+        },
+        {
+            "created_at": "2015-12-02T16:20:52.000Z",
+            "title": "Kazakhstan to MitM all HTTPS traffic starting Jan 1",
+            "url": "http://telecom.kz/en/news/view/18729",
+            "author": "out_of_protocol",
+            "points": 803,
+            "story_text": null,
+            "comment_text": null,
+            "num_comments": 361,
+            "story_id": null,
+            "story_title": null,
+            "story_url": null,
+            "parent_id": null,
+            "created_at_i": 1449073252,
+            "relevancy_score": 6412,
+            "_tags": [
+                "story",
+                "author_out_of_protocol",
+                "story_10663843"
+            ],
+            "objectID": "10663843",
+            "_highlightResult": {
+                "title": {
+                    "value": "Kazakhstan to \u003cem\u003eMit\u003c/em\u003eM all HTTPS traffic starting Jan 1",
+                    "matchLevel": "full",
+                    "fullyHighlighted": false,
+                    "matchedWords": [
+                        "mit"
+                    ]
+                },
+                "url": {
+                    "value": "http://telecom.kz/en/news/view/18729",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                "author": {
+                    "value": "out_of_protocol",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                }
+            }
+        },
+        {
+            "created_at": "2018-01-29T06:31:27.000Z",
+            "title": "Microsoft disables Spectre mitigations as Intel’s patches cause instability",
+            "url": "http://www.securityweek.com/microsoft-disables-spectre-mitigations-due-instability",
+            "author": "tomtoise",
+            "points": 757,
+            "story_text": null,
+            "comment_text": null,
+            "num_comments": 315,
+            "story_id": null,
+            "story_title": null,
+            "story_url": null,
+            "parent_id": null,
+            "created_at_i": 1517207487,
+            "relevancy_score": 7931,
+            "_tags": [
+                "story",
+                "author_tomtoise",
+                "story_16255711"
+            ],
+            "objectID": "16255711",
+            "_highlightResult": {
+                "title": {
+                    "value": "Microsoft disables Spectre \u003cem\u003emit\u003c/em\u003eigations as Intel’s patches cause instability",
+                    "matchLevel": "full",
+                    "fullyHighlighted": false,
+                    "matchedWords": [
+                        "mit"
+                    ]
+                },
+                "url": {
+                    "value": "http://www.securityweek.com/microsoft-disables-spectre-\u003cem\u003emit\u003c/em\u003eigations-due-instability",
+                    "matchLevel": "full",
+                    "fullyHighlighted": false,
+                    "matchedWords": [
+                        "mit"
+                    ]
+                },
+                "author": {
+                    "value": "tomtoise",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                }
+            }
+        },
+        {
+            "created_at": "2019-05-02T19:29:45.000Z",
+            "title": "Self Studying the MIT Applied Math Curriculum",
+            "url": "https://www.harshsikka.me/self-studying-the-mit-applied-math-curriculum/",
+            "author": "hsikka",
+            "points": 714,
+            "story_text": null,
+            "comment_text": null,
+            "num_comments": 96,
+            "story_id": null,
+            "story_title": null,
+            "story_url": null,
+            "parent_id": null,
+            "created_at_i": 1556825385,
+            "relevancy_score": 8804,
+            "_tags": [
+                "story",
+                "author_hsikka",
+                "story_19811715"
+            ],
+            "objectID": "19811715",
+            "_highlightResult": {
+                "title": {
+                    "value": "Self Studying the \u003cem\u003eMIT\u003c/em\u003e Applied Math Curriculum",
+                    "matchLevel": "full",
+                    "fullyHighlighted": false,
+                    "matchedWords": [
+                        "mit"
+                    ]
+                },
+                "url": {
+                    "value": "https://www.harshsikka.me/self-studying-the-\u003cem\u003emit\u003c/em\u003e-applied-math-curriculum/",
+                    "matchLevel": "full",
+                    "fullyHighlighted": false,
+                    "matchedWords": [
+                        "mit"
+                    ]
+                },
+                "author": {
+                    "value": "hsikka",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                }
+            }
+        },
+        {
+            "created_at": "2018-06-02T22:01:23.000Z",
+            "title": "MIT 9.11: The Human Brain (Spring 2018)",
+            "url": "https://nancysbraintalks.mit.edu/course/9-11-the-human-brain",
+            "author": "indescions_2018",
+            "points": 709,
+            "story_text": null,
+            "comment_text": null,
+            "num_comments": 69,
+            "story_id": null,
+            "story_title": null,
+            "story_url": null,
+            "parent_id": null,
+            "created_at_i": 1527976883,
+            "relevancy_score": 8159,
+            "_tags": [
+                "story",
+                "author_indescions_2018",
+                "story_17216634"
+            ],
+            "objectID": "17216634",
+            "_highlightResult": {
+                "title": {
+                    "value": "\u003cem\u003eMIT\u003c/em\u003e 9.11: The Human Brain (Spring 2018)",
+                    "matchLevel": "full",
+                    "fullyHighlighted": false,
+                    "matchedWords": [
+                        "mit"
+                    ]
+                },
+                "url": {
+                    "value": "https://nancysbraintalks.\u003cem\u003emit\u003c/em\u003e.edu/course/9-11-the-human-brain",
+                    "matchLevel": "full",
+                    "fullyHighlighted": false,
+                    "matchedWords": [
+                        "mit"
+                    ]
+                },
+                "author": {
+                    "value": "indescions_2018",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                }
+            }
+        },
+        {
+            "created_at": "2019-04-29T21:08:47.000Z",
+            "title": "Belgian programmer solves MIT’s 20-year-old time capsule cryptographic puzzle",
+            "url": "https://www.csail.mit.edu/news/belgian-programmer-solves-mits-20-year-old-cryptographic-puzzle",
+            "author": "MrXOR",
+            "points": 698,
+            "story_text": null,
+            "comment_text": null,
+            "num_comments": 118,
+            "story_id": null,
+            "story_title": null,
+            "story_url": null,
+            "parent_id": null,
+            "created_at_i": 1556572127,
+            "relevancy_score": 8804,
+            "_tags": [
+                "story",
+                "author_MrXOR",
+                "story_19782634"
+            ],
+            "objectID": "19782634",
+            "_highlightResult": {
+                "title": {
+                    "value": "Belgian programmer solves \u003cem\u003eMIT\u003c/em\u003e’s 20-year-old time capsule cryptographic puzzle",
+                    "matchLevel": "full",
+                    "fullyHighlighted": false,
+                    "matchedWords": [
+                        "mit"
+                    ]
+                },
+                "url": {
+                    "value": "https://www.csail.\u003cem\u003emit\u003c/em\u003e.edu/news/belgian-programmer-solves-\u003cem\u003emit\u003c/em\u003es-20-year-old-cryptographic-puzzle",
+                    "matchLevel": "full",
+                    "fullyHighlighted": false,
+                    "matchedWords": [
+                        "mit"
+                    ]
+                },
+                "author": {
+                    "value": "MrXOR",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                }
+            }
+        },
+        {
+            "created_at": "2022-05-12T13:49:02.000Z",
+            "title": "Show HN: Mitmproxy2swagger – Automagically reverse-engineer REST APIs",
+            "url": "https://github.com/alufers/mitmproxy2swagger",
+            "author": "alufers",
+            "points": 691,
+            "story_text": null,
+            "comment_text": null,
+            "num_comments": 85,
+            "story_id": null,
+            "story_title": null,
+            "story_url": null,
+            "parent_id": null,
+            "created_at_i": 1652363342,
+            "_tags": [
+                "story",
+                "author_alufers",
+                "story_31354130",
+                "show_hn"
+            ],
+            "objectID": "31354130",
+            "_highlightResult": {
+                "title": {
+                    "value": "Show HN: \u003cem\u003eMit\u003c/em\u003emproxy2swagger – Automagically reverse-engineer REST APIs",
+                    "matchLevel": "full",
+                    "fullyHighlighted": false,
+                    "matchedWords": [
+                        "mit"
+                    ]
+                },
+                "url": {
+                    "value": "https://github.com/alufers/\u003cem\u003emit\u003c/em\u003emproxy2swagger",
+                    "matchLevel": "full",
+                    "fullyHighlighted": false,
+                    "matchedWords": [
+                        "mit"
+                    ]
+                },
+                "author": {
+                    "value": "alufers",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                }
+            }
+        },
+        {
+            "created_at": "2021-11-15T16:27:28.000Z",
+            "title": "Blacksmith – Rowhammer bit flips on all DRAM devices today despite mitigations",
+            "url": "https://comsec.ethz.ch/research/dram/blacksmith/",
+            "author": "buran77",
+            "points": 662,
+            "story_text": null,
+            "comment_text": null,
+            "num_comments": 309,
+            "story_id": null,
+            "story_title": null,
+            "story_url": null,
+            "parent_id": null,
+            "created_at_i": 1636993648,
+            "_tags": [
+                "story",
+                "author_buran77",
+                "story_29229200"
+            ],
+            "objectID": "29229200",
+            "_highlightResult": {
+                "title": {
+                    "value": "Blacksmith – Rowhammer bit flips on all DRAM devices today despite \u003cem\u003emit\u003c/em\u003eigations",
+                    "matchLevel": "full",
+                    "fullyHighlighted": false,
+                    "matchedWords": [
+                        "mit"
+                    ]
+                },
+                "url": {
+                    "value": "https://comsec.ethz.ch/research/dram/blacksmith/",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                "author": {
+                    "value": "buran77",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                }
+            }
+        },
+        {
+            "created_at": "2022-04-09T12:15:25.000Z",
+            "title": "MIT graduate students vote to unionize",
+            "url": "https://thetech.com/2022/04/08/grad-students-unionize",
+            "author": "Metacelsus",
+            "points": 638,
+            "story_text": null,
+            "comment_text": null,
+            "num_comments": 378,
+            "story_id": null,
+            "story_title": null,
+            "story_url": null,
+            "parent_id": null,
+            "created_at_i": 1649506525,
+            "_tags": [
+                "story",
+                "author_Metacelsus",
+                "story_30967375"
+            ],
+            "objectID": "30967375",
+            "_highlightResult": {
+                "title": {
+                    "value": "\u003cem\u003eMIT\u003c/em\u003e graduate students vote to unionize",
+                    "matchLevel": "full",
+                    "fullyHighlighted": false,
+                    "matchedWords": [
+                        "mit"
+                    ]
+                },
+                "url": {
+                    "value": "https://thetech.com/2022/04/08/grad-students-unionize",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                "author": {
+                    "value": "Metacelsus",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                }
+            }
+        },
+        {
+            "created_at": "2014-11-01T13:35:25.000Z",
+            "title": "Please remove mitsuhiko/*",
+            "url": "https://github.com/tip4commit/tip4commit/issues/127",
+            "author": "art2",
+            "points": 634,
+            "story_text": "",
+            "comment_text": null,
+            "num_comments": 431,
+            "story_id": null,
+            "story_title": null,
+            "story_url": null,
+            "parent_id": null,
+            "created_at_i": 1414848925,
+            "relevancy_score": 5646,
+            "_tags": [
+                "story",
+                "author_art2",
+                "story_8542969"
+            ],
+            "objectID": "8542969",
+            "_highlightResult": {
+                "title": {
+                    "value": "Please remove \u003cem\u003emit\u003c/em\u003esuhiko/*",
+                    "matchLevel": "full",
+                    "fullyHighlighted": false,
+                    "matchedWords": [
+                        "mit"
+                    ]
+                },
+                "url": {
+                    "value": "https://github.com/tip4commit/tip4commit/issues/127",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                "author": {
+                    "value": "art2",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                "story_text": {
+                    "value": "",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                }
+            }
+        },
+        {
+            "created_at": "2013-09-13T12:15:03.000Z",
+            "title": "New NSA Leak Shows MITM Attacks Against Major Internet Services",
+            "url": "https://www.schneier.com/blog/archives/2013/09/new_nsa_leak_sh.html",
+            "author": "chopin",
+            "points": 631,
+            "story_text": "",
+            "comment_text": null,
+            "num_comments": 142,
+            "story_id": null,
+            "story_title": null,
+            "story_url": null,
+            "parent_id": null,
+            "created_at_i": 1379074503,
+            "relevancy_score": 4853,
+            "_tags": [
+                "story",
+                "author_chopin",
+                "story_6379928"
+            ],
+            "objectID": "6379928",
+            "_highlightResult": {
+                "title": {
+                    "value": "New NSA Leak Shows \u003cem\u003eMIT\u003c/em\u003eM Attacks Against Major Internet Services",
+                    "matchLevel": "full",
+                    "fullyHighlighted": false,
+                    "matchedWords": [
+                        "mit"
+                    ]
+                },
+                "url": {
+                    "value": "https://www.schneier.com/blog/archives/2013/09/new_nsa_leak_sh.html",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                "author": {
+                    "value": "chopin",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                "story_text": {
+                    "value": "",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                }
+            }
+        },
+        {
+            "created_at": "2017-01-28T21:33:03.000Z",
+            "title": "Iranian MIT student goes home over break, denied return for spring semester",
+            "url": "https://petitions.whitehouse.gov/petition/bring-niki-mossafer-rahmati-current-mit-student-iran-back-us",
+            "author": "obi1kenobi",
+            "points": 599,
+            "story_text": null,
+            "comment_text": null,
+            "num_comments": 359,
+            "story_id": null,
+            "story_title": null,
+            "story_url": null,
+            "parent_id": null,
+            "created_at_i": 1485639183,
+            "relevancy_score": 7218,
+            "_tags": [
+                "story",
+                "author_obi1kenobi",
+                "story_13509509"
+            ],
+            "objectID": "13509509",
+            "_highlightResult": {
+                "title": {
+                    "value": "Iranian \u003cem\u003eMIT\u003c/em\u003e student goes home over break, denied return for spring semester",
+                    "matchLevel": "full",
+                    "fullyHighlighted": false,
+                    "matchedWords": [
+                        "mit"
+                    ]
+                },
+                "url": {
+                    "value": "https://petitions.whitehouse.gov/petition/bring-niki-mossafer-rahmati-current-\u003cem\u003emit\u003c/em\u003e-student-iran-back-us",
+                    "matchLevel": "full",
+                    "fullyHighlighted": false,
+                    "matchedWords": [
+                        "mit"
+                    ]
+                },
+                "author": {
+                    "value": "obi1kenobi",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                }
+            }
+        },
+        {
+            "created_at": "2011-07-19T16:27:27.000Z",
+            "title": "Aaronsw indicted for hacking MIT network to download millions of JSTOR docs",
+            "url": "https://www.documentcloud.org/documents/217115-20110719-schwartz.html",
+            "author": "Estragon",
+            "points": 595,
+            "story_text": "",
+            "comment_text": null,
+            "num_comments": 313,
+            "story_id": null,
+            "story_title": null,
+            "story_url": null,
+            "parent_id": null,
+            "created_at_i": 1311092847,
+            "relevancy_score": 3348,
+            "_tags": [
+                "story",
+                "author_Estragon",
+                "story_2781615"
+            ],
+            "objectID": "2781615",
+            "_highlightResult": {
+                "title": {
+                    "value": "Aaronsw indicted for hacking \u003cem\u003eMIT\u003c/em\u003e network to download millions of JSTOR docs",
+                    "matchLevel": "full",
+                    "fullyHighlighted": false,
+                    "matchedWords": [
+                        "mit"
+                    ]
+                },
+                "url": {
+                    "value": "https://www.documentcloud.org/documents/217115-20110719-schwartz.html",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                "author": {
+                    "value": "Estragon",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                "story_text": {
+                    "value": "",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                }
+            }
+        }
+    ],
+    "nbHits": 149656,
+    "page": 0,
+    "nbPages": 50,
+    "hitsPerPage": 20,
+    "exhaustiveNbHits": false,
+    "exhaustiveTypo": true,
+    "query": "MIT",
+    "params": "advancedSyntax=true\u0026analytics=true\u0026analyticsTags=backend\u0026query=MIT",
+    "processingTimeMS": 18,
+    "processingTimingsMS": {
+        "afterSearch": {
+            "total": 1
+        },
+        "search": {
+            "scanning": 14,
+            "total": 17
+        },
+        "total": 18
+    }
+}

@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+
+<body>
+    <p>this ia async/await demo.</p>
+    <script>
+        function resolveAfter2Seconds(x) {
+            return new Promise(resolve => {
+                setTimeout(() => {
+                    resolve(x);
+                }, 3000);
+            });
+        }
+
+        async function f1() {
+            var x = await resolveAfter2Seconds(10);
+            alert(x)
+            console.log(x); // 10
+        }
+        async function getWeatherData() {
+            let data = resolveWeatherData('suzhou');
+            if (data) {
+                console.log(data)
+            }
+        }
+        f1();
+
+    </script>
+</body>
+
+</html>
