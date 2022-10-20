@@ -6,7 +6,7 @@ app.use(bodyParser.urlencoded({extended:false}));
 app.use(bodyParser.json());
 
 app.get('/', function (req, res) {
-  res.send('Hello World')
+  res.send('week22 三层应用程序')
 })
 
 app.post('/test', function (req, res) {

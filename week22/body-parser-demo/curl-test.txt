@@ -1,1 +1,1 @@
-curl -H "Content-Type: application/json" -X POST -d '{"username":"peterparker","password":"secret"}' http://localhost:3000/test
+curl -H "Content-Type: application/json" -X POST -d '{"username":"liminjun","password":"10010"}' http://localhost:3000/test
