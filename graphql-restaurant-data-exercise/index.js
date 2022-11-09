@@ -104,8 +104,7 @@ var root = {
     // Your code goes here
     restaurants.push({
       name: input.name,
-      email: input.email,
-      age: input.age
+      description: input.description,
     })
     return input
   },
@@ -125,7 +124,6 @@ var root = {
       throw new Error('restaurant not exist');
     }
     restaurants[id] = {
-      ...restaurants[id],
       ...restaurant
     };
     return restaurants[id];
