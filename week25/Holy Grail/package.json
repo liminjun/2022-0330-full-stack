@@ -17,8 +17,10 @@
   },
   "homepage": "https://github.com/kogsio/react-holygrail#readme",
   "dependencies": {
+    "dotenv": "^16.0.3",
     "express": "^4.17.1",
-    "redis": "^3.0.2"
+    "redis": "^3.0.2",
+    "ioredis": "^5.2.4"
   },
   "devDependencies": {
     "ioredis": "^5.2.4"
